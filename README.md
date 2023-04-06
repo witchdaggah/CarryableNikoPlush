@@ -10,3 +10,7 @@ Garrys Mod plushie SWEP of the Oneshot character, Niko.
 Drop the addon files into `steamapps/common/GarrysMod/garrysmod/addons` or [subscribe to the mod on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2846349957), you can find the SWEP under Weapons>Other in the spawnmenu.
 ## Credit
 [Azbr the Friendly Goat](https://steamcommunity.com/id/azazza/) - Additional help
+
+Fangamer and Future Cat - Niko plush pictures used in the cover
+
+[loley](https://steamcommunity.com/id/IoIey) and [Niko #teamtojo](https://steamcommunity.com/id/vaporkin) - Model used in the screenshot
